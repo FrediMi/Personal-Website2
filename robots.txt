@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alshedivat.github.io/al-folio/sitemap.xml
+Sitemap: https://fredimi.github.io/Personal-Website2//Personal-Website2//sitemap.xml
